@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>CampoYangu Project Documentation</title>
+	CampoYangu Project Documentation
 </head>
 <body>
 	<h1>CampoYangu Project Documentation</h1>
